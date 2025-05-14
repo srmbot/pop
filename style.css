@@ -96,3 +96,9 @@ h1 {
 .social-btn:hover {
   opacity: 0.85;
 }
+body {
+  background: rgb(25, 40, 69) url("assets/background.png");
+  background-size: cover;
+  background-repeat: repeat;
+  background-position: center;
+}
